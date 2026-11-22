@@ -1,0 +1,16 @@
+{
+  "app_name": "Maaş İade ve Borç Hesaplama Programı",
+  "version": "2.1.0",
+  "release_date": "2026-11-22",
+  "mandatory": false,
+  "download_url": "",
+  "release_page_url": "",
+  "file_name": "Maas_Iade_Programi.exe",
+  "file_size": 57848722,
+  "sha256": "71101677b352db991303ae53e906c35df4ae5967369a345cd03c07320eac4469",
+  "changelog": [
+    "83 Sıra No.lu Genel Tebliğ EK-1 ve KBS bordro hesaplama motoru",
+    "Yerleşik şifreli SQLite LAN sunucusu ve çok kullanıcılı senkronizasyon",
+    "Üst başlık düzeni, yardım mevzuat belgeleri ve otomatik güncelleme kontrolü"
+  ]
+}
