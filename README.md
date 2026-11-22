@@ -8,8 +8,8 @@ Bu depo yalnızca uygulamanın **herkese açık sürüm bildirimlerini (`version
 
 - **İndirme:** [Son Sürümü İndir (v2.1.0)](https://github.com/burhannecare57-dev/maas-iade-programi-updates/releases/tag/v2.1.0)
 - **Dosya Adı:** `Maas_Iade_Programi.exe`
-- **Dosya Boyutu:** `55.18 MB`
-- **SHA-256:** `7b30550ab58900c2b0a1cf7cb03e83d487ae7b6dc28386c822c076759a924e92`
+- **Dosya Boyutu:** `55.19 MB`
+- **SHA-256:** `69261182d2e28d46df14aa867b450ec6c6d776f5dd475c736c913b68b34b178e`
 
 ## Değişiklik Notları
 
