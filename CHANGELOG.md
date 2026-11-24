@@ -1,5 +1,13 @@
 # Sürüm Geçmişi (Changelog)
 
+## v2.1.2 (2026-11-24)
+
+- MEB ve kurumsal ağlarda yaşanan SSL sertifika doğrulama hatası giderildi (Windows CryptoAPI / truststore ve ROOT+CA sertifika deposu desteği)
+- Python 3.13 katı X.509 doğrulamasının kurumsal SSL sertifikalarını reddetmesi sorunu çözüldü
+- Kurumsal özel CA dosyası (MAAS_IADE_CA_BUNDLE / SSL_CERT_FILE) ve ayrıntılı SSL hata bildirimi eklendi
+
+- **SHA-256:** `3004911cc48f5fffc48573139170729e3531d2c33d07b186b2b0d91420514c2c`
+
 ## v2.1.1 (2026-11-24)
 
 - Kullanıcı Girişi (Şifre Kaydet, Yıl Seçimi/Yeni Yıl, Ağ Ayarları, Güncelleme) ve Kullanıcı Yetkilendirme ekranı eklendi
